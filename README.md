@@ -11,7 +11,7 @@ Skript je určený pro uživatele webu [Moje Autoškola](https://www.moje-autosk
 
 # Instalace a spuštění
 
-1. Stáhnout všechny nutné knihovny (`pip install requirements.txt`)
+1. Stáhnout všechny nutné knihovny (`pip install -r requirements.txt`)
 2. Exportovat/zkopírovat `ma_session` a `PHPSESSID` cookies z prohlížeče
 3. Vytvořit soubor `.env`
     - SUBDOMAIN=`[subdoména pro vaši autoškolu]`
