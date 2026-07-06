@@ -9,7 +9,7 @@ Skript je určený pro uživatele webu [Moje Autoškola](https://www.moje-autosk
 - Nainstalovaný PIP
 - Nainstalované všechny knihovny z `requirements.txt`
 
-# Instalace a spuštění
+## Instalace a spuštění
 
 1. Stáhnout všechny nutné knihovny (`pip install -r requirements.txt`)
 2. Exportovat/zkopírovat `ma_session` a `PHPSESSID` cookies z prohlížeče
@@ -20,6 +20,6 @@ Skript je určený pro uživatele webu [Moje Autoškola](https://www.moje-autosk
 4. Spustit skript `mojeautoskola_video_downloader.py`
 5. Zadat ID videa (např. 203, v URL stránky videa)
 
-# Poznámky
+## Poznámky
 
 Video bude uloženo v CWD jako `autoskola_video.mp4`.
